@@ -1,4 +1,4 @@
-# llljinggg1110-rgb
+# lllijinggg1110-rgb
 # Hi 👋 I’m Jing 
 
 🎓 BCom (Accounting) @ UNSW  
