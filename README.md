@@ -61,18 +61,6 @@ I am particularly interested in how **AI (OCR, LLMs, intelligent systems)** can 
 
 ---
 
-## 🎓 Education (Brief)
-
-**University of New South Wales (UNSW)**  
-Bachelor of Commerce | Major: Accounting  
-
-Relevant learning areas:
-- Accounting & Financial Analysis  
-- Marketing & Consumer Behavior  
-- Business & Data Analysis  
-
----
-
 ## 📌 What I’m Working Toward
 
 - Deepening AI + accounting / business integration  
