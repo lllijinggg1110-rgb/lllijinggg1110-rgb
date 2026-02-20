@@ -42,25 +42,6 @@ I am particularly interested in how **AI (OCR, LLMs, intelligent systems)** can 
 
 ---
 
-## 🧠 Skills & Tools
-
-**Business & Analytics**
-- Financial Accounting & Management Accounting  
-- Cost structure analysis & financial indicators  
-- Business analysis & logical problem decomposition  
-
-**Data & Tools**
-- Excel (data cleaning, pivot tables, basic analysis)  
-- PowerPoint (clear, structured business storytelling)  
-- Basic data analysis mindset  
-
-**Core Strengths**
-- Strong logical thinking & attention to detail  
-- Ability to bridge business logic and technical concepts  
-- Clear communication & team collaboration  
-
----
-
 ## 🚀 Selected Experience
 
 ### 🤖 AI Intelligent Reimbursement System (Demo Project)
